@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prototipo-ht/static/css/main.ca168dc3.css",
+    "main.js": "/prototipo-ht/static/js/main.26a84f77.js",
+    "index.html": "/prototipo-ht/index.html",
+    "main.ca168dc3.css.map": "/prototipo-ht/static/css/main.ca168dc3.css.map",
+    "main.26a84f77.js.map": "/prototipo-ht/static/js/main.26a84f77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca168dc3.css",
+    "static/js/main.26a84f77.js"
+  ]
+}
